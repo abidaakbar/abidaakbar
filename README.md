@@ -74,30 +74,6 @@ Deep Learning project for classifying five rice varieties using Computer Vision.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidaakbar&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidaakbar&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abidaakbar&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidaakbar&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
