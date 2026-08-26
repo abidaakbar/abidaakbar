@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abida Akbar Rusyadin</h1>
 
-<h3 align="center">Informatics Graduate | Backend & Web Developer | AI & Computer Vision Enthusiast</h3>
+<h3 align="center">Informatics Graduate | Full-stack Web Developer | AI & Computer Vision Enthusiast</h3>
 
 <p align="center">
-  Fresh graduate in Informatics with an interest in web development, backend engineering,
+  Fresh graduate in Informatics with an interest in web development, software engineering,
   and AI-powered computer vision applications. Experienced in developing Laravel-based web applications,
   building admin panels with Filament, and training image classification models using YOLOv8.
 </p>
@@ -13,10 +13,10 @@
 ## 🚀 About Me
 
 - 🎓 Fresh Graduate in Informatics.
-- 💻 Interested in **Backend Development**, **Web Development**, and **IT Support**.
+- 💻 Interested in **Full-stack Development**, **Web Development**, and **IT Support**.
 - 🤖 Built Computer Vision projects using **YOLOv8** and **PyTorch**.
 - 🌱 Currently learning more about **Linux**, **Networking**, and **System Administration**.
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **abidaakbar001@gmail.com**
 
 ---
 
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow" />
 </p>
 
-**Also familiar with:** Filament, Livewire, Google Colab, NumPy, Matplotlib, Computer Vision, YOLOv8.
+**Also familiar with:** Filament, Google Colab, NumPy, Matplotlib, Computer Vision, YOLOv8.
 
 ---
 
