@@ -77,15 +77,15 @@ Deep Learning project for classifying five rice varieties using Computer Vision.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abidaakbar&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abidaakbar&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abidaakbar&theme=github-dark-blue&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidaakbar&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidaakbar&layout=compact&theme=github_dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=abidaakbar&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ Deep Learning project for classifying five rice varieties using Computer Vision.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidaakbar&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidaakbar&theme=github-dark&hide_border=true" />
 </p>
 
 ---
@@ -105,11 +105,7 @@ Deep Learning project for classifying five rice varieties using Computer Vision.
     <img src="https://img.shields.io/badge/GitHub-abidaakbar-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Abida%20Akbar-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-abidaakbar001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
