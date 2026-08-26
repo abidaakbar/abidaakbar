@@ -31,7 +31,7 @@
 ### Frameworks & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,git,github,vscode" />
 </p>
 
 ### AI / Machine Learning
@@ -81,7 +81,7 @@ Deep Learning project for classifying five rice varieties using Computer Vision.
     <img src="https://img.shields.io/badge/GitHub-abidaakbar-181717?style=for-the-badge&logo=github"/>
   </a>
 
-  <a href="mailto:your-abidaakbar001@gmail.com">
+  <a href="mailto:abidaakbar001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
